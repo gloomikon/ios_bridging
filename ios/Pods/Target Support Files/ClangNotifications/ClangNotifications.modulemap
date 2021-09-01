@@ -1,0 +1,6 @@
+framework module ClangNotifications {
+  umbrella header "ClangNotifications-umbrella.h"
+
+  export *
+  module * { export * }
+}
